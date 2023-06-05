@@ -1,4 +1,6 @@
 # Folders
+/.ipynb_checkpoints
+/data
 /etc
 /Include
 /Lib
@@ -6,3 +8,4 @@
 /share
 
 # Extensions
+*.pth
