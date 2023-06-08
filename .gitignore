@@ -11,3 +11,5 @@
 
 # Extensions
 *.pth
+
+pyvenv.cfg
