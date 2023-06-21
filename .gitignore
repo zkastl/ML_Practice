@@ -1,13 +1,15 @@
 # Folders
 /.ipynb_checkpoints
 /bin
-/data
+/data/*
 /dl
 /etc
 /Include
 /Lib
 /lib/
 /lib64
+/logs/*
+/models/*
 /Scripts
 /share
 
